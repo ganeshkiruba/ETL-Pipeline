@@ -106,7 +106,7 @@ The script includes basic SSL handling so it can still fetch the data in environ
 
 ## Learning Purpose
 
-This project is ideal for beginners who want to understand:
+This project is to understand:
 
 - how ETL pipelines are built
 - how Python can interact with APIs
